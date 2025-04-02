@@ -4,8 +4,8 @@ class User:
         self.height=height
         self.weight=weight
         avail=0
-        limits=null
-        goals=null
+        limits=0
+        goals=0
 
     
     
